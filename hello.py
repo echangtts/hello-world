@@ -1,7 +1,0 @@
-print '**hello world!**'
-print 'hello california'
-print 'hello pleasanton'
-print 'before commit'
-print 'after staged'
-print 'TTS'
-print 'TTS - modified after staged and before stashed'
