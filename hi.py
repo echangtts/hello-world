@@ -1,4 +1,3 @@
-print 'How are you?'
-print 'chyuan'
-print 'tts'
-print 'test commit -v'
+print 'Hi new test'
+print 'test distributed repo'
+print 'author 1'
