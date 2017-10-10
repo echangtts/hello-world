@@ -1,5 +1,3 @@
-print 'How are you?'
-print 'handle issue1'
-print 'echangtts'
-print 'chyuan'
-print 'bug fixed'
+print 'Hi new test'
+print 'test distributed repo'
+print 'author 1'
